@@ -1,1 +1,1 @@
-# SOFAR_Object_Following_Robot-using-Open-CV-
+# SOFAR_Object_Following_Robot
