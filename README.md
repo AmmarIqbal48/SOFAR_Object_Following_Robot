@@ -54,4 +54,8 @@ We aim to further expand this project and make it a person-follower.
 
 Now go ahead and clone this repository inside the "src" folder of the catkin workspace you just created by executing the command given below in your terminal.
 
+'''
+https://github.com/AmmarIqbal48/SOFAR_Object_Following_Robot.git
+'''
+
 
