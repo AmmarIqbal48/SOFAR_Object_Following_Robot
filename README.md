@@ -54,8 +54,12 @@ We aim to further expand this project and make it a person-follower.
 
 Now go ahead and clone this repository inside the "src" folder of the catkin workspace you just created by executing the command given below in your terminal.
 
-'''
 https://github.com/AmmarIqbal48/SOFAR_Object_Following_Robot.git
-'''
+
+Now launch the the file by using the following command in terminal
+
+roslaunch bridge_example gazeebo_ex.launch
+![image](https://user-images.githubusercontent.com/105802251/211953307-90abc088-8a61-4256-bba6-f46542aecd1b.png)
 
 
+Here after launching the package, you will see the two windows, In one you will see two robots one(Robot_1) moves and other(Robot_2) looking for the robot_1 by using CV detecting operation when in seach the defined colour it lock it and then it will try to allign itself in center of that colour to keep detecting to follows it and in sencond window you will see the camrea view of the robot_2 to visualize the detection process. 
