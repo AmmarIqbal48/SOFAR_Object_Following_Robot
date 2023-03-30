@@ -3,8 +3,8 @@ This is the final Assignment of the our course Software Architectures for Roboti
 a moving target (e.g., a person or another robot) at a fixed distance.
 
 ## Two methods were Implemented in this case
-* Using nav2
-* Using OpenCV
+* Using nav2 (ROS 2)
+* Using OpenCV (ROS)
 
 # Nav2
 Intially installed the Nav2 pkg  which is used in ROS2 for the navigation of robots in the environment. We used spacific part of the nav2 to the simulation to implement the  "following dynamic point" maintaining a fixed distance.
